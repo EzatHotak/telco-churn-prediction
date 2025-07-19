@@ -11,7 +11,7 @@
 
 A predictive analytics solution that identifies customers at risk of leaving telecom services, enabling proactive retention strategies.
 
-![Churn Prediction App Screenshot](https://via.placeholder.com/800x400?text=App+Screenshot+Here) *(Replace with actual screenshot)*
+
 
 ## 🔍 Project Overview
 This end-to-end machine learning project:
